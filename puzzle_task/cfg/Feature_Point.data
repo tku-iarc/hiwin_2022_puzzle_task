@@ -1,0 +1,5 @@
+classes=35
+train=/home/weng/RoboticArm_Puzzle/main/cfg/train.txt
+valid=/home/weng/RoboticArm_Puzzle/main/cfg/val.txt
+names=/home/weng/RoboticArm_Puzzle/main/cfg/Feature_Point.names
+backup=/home/weng/RoboticArm_Puzzle/main/cfg/weights/Feature_Point
