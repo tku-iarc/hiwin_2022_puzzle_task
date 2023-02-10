@@ -5,7 +5,7 @@
 #### Clone this Repository
 ```
 cd <your_workspace>/src
-git clone --recurse-submodules https://github.com/tku-iarc/Hiwin_libmodbus.git
+git clone --recurse-submodules https://github.com/tku-iarc/hiwin_puzzle_task.git
 ```
 
 ### Description
