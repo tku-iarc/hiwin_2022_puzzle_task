@@ -1,0 +1,6 @@
+[submodule "Hiwin_libmodbus"]
+	path = Hiwin_libmodbus
+	url = https://github.com/tku-iarc/Hiwin_libmodbus.git
+[submodule "darknet_ros"]
+	path = darknet_ros
+	url = https://github.com/tku-iarc/darknet_ros.git
