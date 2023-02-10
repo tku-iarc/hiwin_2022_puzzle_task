@@ -1,5 +1,14 @@
 ## Puzzle Task in HIWIN Competition
 
+### Getting start
+
+#### Clone this Repository
+```
+cd <your_workspace>/src
+git clone --recurse-submodules https://github.com/tku-iarc/Hiwin_libmodbus.git
+```
+
+### Description
 
 主程式		main.py
 角度檢測	Angle_Detect.py
